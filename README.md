@@ -6,8 +6,8 @@ propia que reemplaza la API `javax.microedition.*`.
 
 ## Por qué existe
 
-Diamond Rush nunca tuvo versión para Android y Gameloft ya no existe como
-empresa, así que el juego quedó abandonado. Este proyecto lo mantiene jugable
+Diamond Rush nunca tuvo versión para Android y Gameloft no parece tener interés en hacerla,
+así que el juego quedó abandonado. Este proyecto lo mantiene jugable
 en celulares actuales, con controles táctiles y sin depender de un emulador.
 
 ## Estado

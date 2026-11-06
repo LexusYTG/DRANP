@@ -1,3 +1,7 @@
+# Legales: si eres el dueño de los derechos de autor de este juego y no quieres que este publuco este port ,porfavor, abre un issue y retirare el port, no quiero problemas legales y esto solo lo estoy haciendo por cariño al juego 
+
+
+
 # DRANP: Diamond Rush Android Native Port
 
 Port nativo a Android de **Diamond Rush** (Gameloft, 2006, Java ME / J2ME).
